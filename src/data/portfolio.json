@@ -60,9 +60,127 @@
       "start_date": "2026-01-01",
       "end_date": null,
       "description": "Delivered 5 web projects for local businesses including e-commerce stores, portfolio sites, and booking systems. Managed full project lifecycle from requirements to deployment.",
-      "tech_stack": ["React","recoil","plaid","TypeScript", "Next.js", "Node.js", "MySQL", "Stripe API"]
+      "tech_stack": ["React","recoil","plaid","TypeScript", "Next.js", "Stripe API"]
     }
   ],
+   "projects":
+[
+    {
+        "id": 1,
+        "name": "DevBook",
+        "description":
+            "developer profile generate with social account and git as community provide solution developer help and post discuss and like and comment on post Utilized ReactJs to create a dynamic, responsive user interface, ensuring a seamless user experience across various devices.",
+        "tools": [
+            "Html",
+            "Css",
+            "Javascript",
+            "Reactjs",
+            "Nodejs",
+            "Expressjs",
+            "MongoDb"
+        ],
+        
+        
+        "role": "Full Stack Developer"
+    },
+ 
+    {
+        "id": 2,
+        "name": "Nikhil Kalariya Profile",
+        "description":
+            "Created a dynamic profile website using React, showcasing skills, projects, and experience. Implemented interactive components and animations to engage visitors, demonstrating proficiency in React and front-end development Used technolopgy is html,css,JavaScript,Reactjs,Tailwindcss, FlowbiteReact, Vitejs, Typescript, Netlify",
+        "tools": [
+            "Html",
+            "Css",
+            "Typescript",
+            "Reactjs",
+            "Tailwindcss",
+            "Flowbite-React"
+        ],
+        "role": "FrontEnd Developer"
+        
+        
+    },
+    {
+        "id": 3,
+        "name": "JobPortal System",
+        "description":
+            "Developed a comprehensive job portal system with a dynamic user interface and responsive design. Utilized React and TypeScript for building reusable components and ensuring type safety. Employed TailwindCSS for efficient styling and Material-UI for advanced UI elements. Integrated React Icons for enhanced visual appeal.",
+        "tools": [
+            "Reactjs",
+            "Html",
+            "Css",
+            "Javascript",
+            "Typescript",
+            "Tailwindcss",
+            "Axios",
+            "Mui"
+        ],
+        "role": "FrontEnd Developer"
+    },
+    {
+        "id": 4,
+        "name": "vega innovation",
+        "description":
+            "Developed SaaS-based ERP for HRMS, product tracking, document management, and centralized data entry.Built dynamic tables, analytics dashboards, and modular forms.Integrated Excel/CSV import-export and user access managemen",
+        "tools": [
+            "Reactjs",
+            "Html",
+            "Css",
+            "Javascript",
+            "PrimeFlex",
+            "Tailwindcss",
+            "Axios",
+            "PrimeReact",
+            "Redux"
+        ],
+        "role": "Software Developer"
+    },
+    {
+        "id": 5,
+        "name": "Reshyne Shopify Pos UI",
+        "description":
+            "Designed POS-based UI to sync Shopify products with offline store inventory. Implemented real-time synchronization and responsive checkout experience.Enhanced retail operations by bridging online + in-store workflows seamlessly.",
+        "tools": [
+            "Reactjs",
+            "Shopify Api",
+            "Shopify Polaris",
+            "Shopify Ui",
+            "Javascript"
+       
+        ],
+        "role": "Software Developer"
+    },
+        {
+        "id": 6,
+        "name": "simplici.io",
+        "description":
+            "Built admin dashboards for managing KYC/KYB requests, approvals, compliance checks, and user management.Integrated third-party identity verification and compliance APIs Developed secure role-based access control for users, compliance teams, and administrators.",
+        "tools": [
+            "Reactjs",
+            "Tailwindcss",
+            "Typescript",
+            "Axios",
+            "Redux"
+       
+        ],
+        "role": "Software Developer"
+    },
+       {
+        "id": 6,
+        "name": "liqudity.io",
+        "description":
+            "Developed a Forex Trading Exchange Platform with liquidity provider integration, real-time market data, secure wallet management, KYC/KYB verification, and trading functionalities. Built responsive user and admin dashboards for trade monitoring, transaction management, and portfolio.",
+        "tools": [
+            "Reactjs",
+            "Typescript",
+            "Recoil",
+            "Tailwindcss",
+            "Axios"       
+        ],
+        "role": "Software Developer"
+    }
+],
   "education": [
     {
       "id": 1,

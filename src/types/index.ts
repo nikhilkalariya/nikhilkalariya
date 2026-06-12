@@ -27,6 +27,14 @@ export interface Experience {
   tech_stack: string[]
 }
 
+export interface Project {
+  id: number
+  name: string
+  description: string
+  tools: string[]
+  role: string
+}
+
 export interface Certification {
   id: number
   title: string

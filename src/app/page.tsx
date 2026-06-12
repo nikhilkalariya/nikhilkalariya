@@ -6,6 +6,7 @@ import ExperienceSection from '@/components/ExperienceSection'
 import EducationSection from '@/components/EducationSection'
 import CertificationsSection from '@/components/CertificationsSection'
 import Footer from '@/components/Footer'
+import ProjectSection from '@/components/ProjctSection'
 
 export default function Home() {
   return (
@@ -15,6 +16,7 @@ export default function Home() {
       <Skills skills={data.skills} />
       <ExperienceSection experience={data.experience} />
       <EducationSection education={data.education} />
+      <ProjectSection projects={data.projects} />
       <CertificationsSection certifications={data.certifications} />
       <Footer />
     </main>
