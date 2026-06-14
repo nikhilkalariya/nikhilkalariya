@@ -50,7 +50,7 @@ export default function Navbar() {
           ))}
           <li>
             <a
-              href="mailto:hello@example.com"
+              href="mailto:nikhilkalariya1000@gmail.com"
               className="px-5 py-2 border border-[#c8a96e] text-[#c8a96e] text-xs font-mono tracking-widest uppercase hover:bg-[#c8a96e] hover:text-[#f5f3ee] transition-all duration-200"
               style={{ fontFamily: 'var(--font-mono)' }}
             >
