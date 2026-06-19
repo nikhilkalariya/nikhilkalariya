@@ -29,10 +29,10 @@ export default function Navbar() {
       <nav className="max-w-6xl mx-auto px-6 flex items-center justify-between">
         <a
           href="#"
-          className="font-display text-xl font-semibold tracking-wide text-[#0a0a0f]"
+          className={`font-display text-xl font-semibold tracking-wide  ${scrolled ? 'text-black' : 'text-[#c8a96e]'}`}
           style={{ fontFamily: 'var(--font-display)' }}
         >
-          Portfolio<span className="text-[#c8a96e]">.</span>
+          Portfolio
         </a>
 
         {/* Desktop */}
