@@ -167,7 +167,7 @@
         "role": "Software Developer"
     },
        {
-        "id": 6,
+        "id": 7,
         "name": "liqudity.io",
         "description":
             "Developed a Forex Trading Exchange Platform with liquidity provider integration, real-time market data, secure wallet management, KYC/KYB verification, and trading functionalities. Built responsive user and admin dashboards for trade monitoring, transaction management, and portfolio.",
@@ -189,7 +189,7 @@
       "field": "Computer Engineering",
       "start_year": 2021,
       "end_year": 2023,
-      "grade": "8.4 CGPA",
+      "grade": "7.1 CGPA",
       "description": "Focused on software engineering, algorithms, data structures and full-stack development. Final year project: AI-powered job recommendation platform."
     },
     {
@@ -199,7 +199,7 @@
       "field": "Computer Engineering",
       "start_year": 2018,
       "end_year": 2021,
-      "grade": "8.4 CGPA",
+      "grade": "7.1 CGPA",
       "description": "Focused on software engineering, algorithms, data structures and full-stack development. Final year project: AI-powered job recommendation platform."
     },
     {
@@ -209,7 +209,7 @@
       "field": "Science – PCM + CS",
       "start_year": 2016,
       "end_year": 2018,
-      "grade": "85%",
+      "grade": "65%",
       "description": "Studied Physics, Chemistry, Mathematics with Computer Science elective."
     }
   ],
